@@ -17,6 +17,8 @@ detectionCon: Detection confidence threshold for hand detection.
               Adjust this value to control the sensitivity of hand detection. 
               A higher value will make detection stricter, while a lower value may detect more false positives.
 maxHands: Maximum number of hands to detect. By default, it is set to 1, but you can increase it if you need to detect multiple hands.
+
+
 **Contribution**
 If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request in this repository. 
 We welcome contributions from the community to make this script better.
